@@ -4,7 +4,7 @@ calculations.py
 Contains all functions used to perform
 sales calculations.
 
-Author: Your Name
+Author: Jake Reynolds
 """
 
 
