@@ -10,7 +10,7 @@ This program:
 4. Performs calculations.
 5. Writes the results to an output file.
 
-Author: Your Name
+Author: Jake Reynolds
 """
 
 import sys
