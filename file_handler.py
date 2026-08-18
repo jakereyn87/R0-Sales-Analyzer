@@ -4,7 +4,7 @@ file_handler.py
 Handles reading sales data from a CSV file
 and writing the analysis report to an output file.
 
-Author: Your Name
+Author: Jake Reynolds
 """
 
 import csv
