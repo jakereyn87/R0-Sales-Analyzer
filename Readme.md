@@ -34,8 +34,7 @@ R0-Sales-Analyzer/
 ├── validator.py
 ├── input.csv
 ├── run.bat
-├── README.md
-└── .gitignore
+└── README.md
 ```
 
 ### File Descriptions
@@ -49,7 +48,7 @@ R0-Sales-Analyzer/
 | `input.csv`       | Sample sales data used for testing                       |
 | `run.bat`         | Command-line script used to execute the program          |
 | `README.md`       | Project documentation                                    |
-| `.gitignore`      | Specifies files that should not be committed to GitHub   |
+
 
 ## Requirements
 
