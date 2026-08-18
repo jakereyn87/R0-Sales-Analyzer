@@ -10,7 +10,7 @@ Checks:
 4. Required columns exist
 5. Numeric values are valid
 
-Author: Your Name
+Author: Jake Reynolds
 """
 
 import os
