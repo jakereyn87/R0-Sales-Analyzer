@@ -1,0 +1,31 @@
+﻿SaleID,Product,Category,Quantity,UnitPrice
+1001,Laptop,Electronics,2,850
+1002,Mouse,Electronics,5,25
+1003,Keyboard,Electronics,3,45
+1004,Monitor,Electronics,2,320
+1005,Chair,Furniture,4,120
+1006,Desk,Furniture,2,250
+1007,Printer,Electronics,1,180
+1008,USB Drive,Accessories,10,15
+1009,Headphones,Electronics,3,90
+1010,Webcam,Electronics,2,75
+1011,Bookshelf,Furniture,1,210
+1012,Coffee Table,Furniture,2,160
+1013,Router,Electronics,3,110
+1014,Smart Watch,Electronics,2,220
+1015,Office Lamp,Furniture,5,35
+1016,External HDD,Electronics,2,95
+1017,SSD,Electronics,4,130
+1018,Gaming Mouse,Electronics,3,60
+1019,Gaming Chair,Furniture,1,340
+1020,Microphone,Electronics,2,140
+1021,HDMI Cable,Accessories,8,18
+1022,Power Bank,Accessories,4,40
+1023,Tablet,Electronics,2,420
+1024,Smartphone,Electronics,3,680
+1025,Filing Cabinet,Furniture,1,290
+1026,Scanner,Electronics,2,210
+1027,Office Desk,Furniture,1,390
+1028,Wireless Speaker,Electronics,4,85
+1029,Graphics Tablet,Electronics,2,260
+1030,Surge Protector,Accessories,6,22
